@@ -1,22 +1,36 @@
-<<<<<<< HEAD
-# peminjaman_ruangan
+# Sistem Peminjaman Ruangan
 
-A new Flutter project.
+Aplikasi peminjaman ruangan berbasis Flutter dan Firebase Realtime Database.
 
-## Getting Started
+## Fitur
 
-This project is a starting point for a Flutter application.
+### User
 
-A few resources to get you started if this is your first Flutter project:
+* Login User
+* Melihat daftar ruangan
+* Mengajukan peminjaman ruangan
+* Melihat status peminjaman
+* Riwayat peminjaman berdasarkan akun
+* Konfirmasi penyelesaian peminjaman
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Admin
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# peminjaman-ruangan-flutter
-Aplikasi Peminjaman Ruangan Berbasis Flutter dan Firebase
->>>>>>> 8eb11356a2c17494a42cdb160ff7e4d6759459e0
+* Login Admin
+* Dashboard Admin
+* Kelola Ruangan (Tambah, Edit, Hapus)
+* Kelola User (Tambah, Edit, Hapus)
+* Approval peminjaman
+* Konfirmasi penyelesaian peminjaman
+* Monitoring status ruangan
+
+## Teknologi
+
+* Flutter
+* Firebase Realtime Database
+* Dart
+
+## Pengembang
+
+Dwi Bima Merdiyansyah
+
+Program Studi Teknik Informatika
