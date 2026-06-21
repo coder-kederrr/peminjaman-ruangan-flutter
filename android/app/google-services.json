@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769326469808",
+    "project_id": "peminjaman-ruangan-6e7ca",
+    "storage_bucket": "peminjaman-ruangan-6e7ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769326469808:android:3ce24ef68178317d76e175",
+        "android_client_info": {
+          "package_name": "com.example.peminjaman_ruangan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-OIlYA3H3mKWlg7R7DIKwxjn-ps-UfVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
